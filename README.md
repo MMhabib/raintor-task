@@ -38,5 +38,6 @@ Follow the steps below to **clone** the repository and **run the project locally
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+npm install
 npm run dev
 
